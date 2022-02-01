@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Golang:)
 - 📫 How to reach me: madgeniusblink.com
 
-Will update my profile soon! if you are looking for a Full stack blockchain dev! just reach out to me!
+Will update my profile soon! if you are looking for a full stack blockchain dev! just reach out to me!
 
 <!--
 **Madgeniusblink/Madgeniusblink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
