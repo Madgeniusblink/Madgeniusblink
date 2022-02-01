@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on upwork as a freelancer and on some blockchain side projects! 
+- 🌱 I’m currently learning Golang:)
+- 📫 How to reach me: madgeniusblink.com
+
 <!--
 **Madgeniusblink/Madgeniusblink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
