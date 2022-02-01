@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Welcome to MadGeniusBlink!
 
 - 🔭 I’m currently working on upwork as a freelancer and on some blockchain side projects! 
 - 🌱 I’m currently learning Golang:)
