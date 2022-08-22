@@ -1,7 +1,7 @@
 ### Hi there 👋, Welcome to MadGeniusBlink!
 
-- 🔭 I’m currently working on upwork as a freelancer and on some blockchain side projects! 
-- 🌱 I’m currently learning Golang:)
+- 🔭 I’m currently working @Fewfar! 
+- 🌱 I’m currently learning Rust & Near Protocol:)
 - 📫 How to reach me: madgeniusblink.com
 
 Will update my profile soon! if you are looking for a full stack blockchain dev! just reach out to me!
