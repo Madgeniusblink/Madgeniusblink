@@ -8,7 +8,7 @@ Previously, I was weaving code magic at Fewfar, building on the NEAR Protocol. C
 ## 🚀 Projects I'm Proud Of
 - **KulaDAO**: [Coming soon!]
 - **Contnt**: [Coming soon!]
-Stay tuned! I've got more exciting projects on the horizon.
+- Stay tuned! I've got more exciting projects on the horizon.
 
 ## 🛠️ Languages & Tools
 - Core Languages: Java, Python, JS, Go, Rust, Solidity, PHP
@@ -20,8 +20,8 @@ I'm continuously expanding my knowledge. Currently, I'm delving deeper into Rust
 
 ## 🌐 Connect with Me
 - Portfolio: [madgeniusblink.com](http://madgeniusblink.com)
-- LinkedIn: [Your LinkedIn profile link](https://www.linkedin.com/in/cristian-romero-8aa389a6)
-- Email: [Your email](madgeniusblink@gmail.com)
+- LinkedIn: [LinkedIn profile link](https://www.linkedin.com/in/cristian-romero-8aa389a6)
+- Email: [Madgeniusblink@gmail.com](madgeniusblink@gmail.com)
 
 I'm always open for interesting projects and collaboration, so feel free to drop me a line if you find my skills could be a fit for your needs. 
 
