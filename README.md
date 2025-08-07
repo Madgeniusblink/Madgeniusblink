@@ -8,7 +8,7 @@ Full Stack Blockchain Engineer building at the intersection of web3 and innovati
 Building blockchain infrastructure and solutions for the decentralized future.
 
 🔧 **[FabricBloc](https://fabricbloc.com)** - Co-Founder  
-Revolutionary platform for [brief description - e.g., "seamless smart contract deployment" or your actual focus].
+Enterprise blockchain infrastructure with developer-first tooling and Claude MCP integrations for seamless Web3 automation.
 
 ## Tech Stack
 
