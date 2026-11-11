@@ -1,28 +1,15 @@
-# Hey, I'm Cris 👋
+# Cris Romero
 
-Full Stack Blockchain Engineer building at the intersection of web3 and innovation.
+Founder of [FabricBloc](https://fabricbloc.com), the blockchain API layer for product teams. Based in Phoenix.
 
-## What I'm Building
+I write about wallets, signing authority, and running a company with AI agents. Follow along on X: [@Madgeniusblink](https://x.com/Madgeniusblink).
 
-🏢 **[BlocLabs](https://bloclabs.com)** - Founder & Lead Engineer  
-Building blockchain infrastructure and solutions for the decentralized future.
+## Open source
 
-🔧 **[FabricBloc](https://fabricbloc.com)** - Co-Founder  
-Enterprise blockchain infrastructure with developer-first tooling and Claude MCP integrations for seamless Web3 automation.
+[dot-agents](https://github.com/Madgeniusblink/dot-agents): a template for a project's `.agents/` base layer, with skills and an AGENTS.md. MIT.
 
-## Tech Stack
+[auth-pack](https://github.com/BloclabsHQ/auth-pack): a Python authentication package for Django REST Framework that bridges Web2 and Web3. MIT.
 
-**Languages:** Python • JavaScript • Go • Rust • Solidity  
-**Blockchain:** EVM chains • Solana • NEAR • ICP • Cardano • Cosmos  
-**Web:** React • Vue.js • Node.js • Django • Express • Flask  
+## Elsewhere
 
-## Let's Connect
-
-I'm always interested in discussing blockchain architecture, DeFi protocols, or potential collaborations.
-
-📧 **Email:** madgeniusblink@gmail.com  
-💼 **LinkedIn:** [Cristian Romero](https://www.linkedin.com/in/cristian-romero-8aa389a6)  
-🌐 **Portfolio:** [madgeniusblink.com](http://madgeniusblink.com)  
-
----
-*Currently exploring: Advanced Rust patterns and ICP ecosystem*
+[X](https://x.com/Madgeniusblink) · [fabricbloc.com](https://fabricbloc.com) · [LinkedIn](https://www.linkedin.com/in/cristian-romero-8aa389a6)
