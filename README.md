@@ -1,4 +1,4 @@
-# Cris Romero
+# Cristian Romero
 
 Founder of [FabricBloc](https://fabricbloc.com), the blockchain API layer for product teams. Based in Phoenix.
 
